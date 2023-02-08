@@ -12,6 +12,11 @@ class UvcCameraAndroidPackage : ReactPackage {
   }
 
   override fun createViewManagers(reactContext: ReactApplicationContext): List<ViewManager<*, *>> {
-    return emptyList()
+    return listOf(UvcCameraAndroidViewManager())
+  }
+
+
+  companion object {
+    const val NAME = "UvcCameraAndroidPackage"
   }
 }
