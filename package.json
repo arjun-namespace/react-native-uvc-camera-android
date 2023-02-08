@@ -41,13 +41,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/stharzun/react-native-uvc-camera-android",
+  "repository": "https://github.com/arjun-namespace/react-native-uvc-camera-android",
   "author": "Arjun Shrestha <stharzun@gmail.com> (https://github.com/stharzun)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stharzun/react-native-uvc-camera-android/issues"
+    "url": "https://github.com/arjun-namespace/react-native-uvc-camera-android/issues"
   },
-  "homepage": "https://github.com/stharzun/react-native-uvc-camera-android#readme",
+  "homepage": "https://github.com/arjun-namespace/react-native-uvc-camera-android#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
